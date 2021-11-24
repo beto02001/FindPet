@@ -13,6 +13,17 @@
 		D14D5826274C598A0029EFFE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D14D5824274C598A0029EFFE /* Main.storyboard */; };
 		D14D5828274C598B0029EFFE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D14D5827274C598B0029EFFE /* Assets.xcassets */; };
 		D14D582B274C598B0029EFFE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D14D5829274C598B0029EFFE /* LaunchScreen.storyboard */; };
+		D14D5833274C5F940029EFFE /* gifLoad.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14D5832274C5F940029EFFE /* gifLoad.swift */; };
+		D14D5835274C60210029EFFE /* puppy.gif in Resources */ = {isa = PBXBuildFile; fileRef = D14D5834274C60210029EFFE /* puppy.gif */; };
+		D14D583A274C6DB60029EFFE /* ViewAdoptarTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14D5839274C6DB60029EFFE /* ViewAdoptarTab.swift */; };
+		D14D583C274C76BB0029EFFE /* perdidos.gif in Resources */ = {isa = PBXBuildFile; fileRef = D14D583B274C76BB0029EFFE /* perdidos.gif */; };
+		D14D583E274C78ED0029EFFE /* ViewPerdidosTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14D583D274C78ED0029EFFE /* ViewPerdidosTab.swift */; };
+		D14D5840274C7BA50029EFFE /* encontrados.gif in Resources */ = {isa = PBXBuildFile; fileRef = D14D583F274C7BA50029EFFE /* encontrados.gif */; };
+		D14D5842274C7ED90029EFFE /* ViewEncontradosTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14D5841274C7ED90029EFFE /* ViewEncontradosTab.swift */; };
+		D14D5846274C86120029EFFE /* iCarousel.m in Sources */ = {isa = PBXBuildFile; fileRef = D14D5844274C86120029EFFE /* iCarousel.m */; };
+		D14D5848274C86800029EFFE /* ViewCarrusel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14D5847274C86800029EFFE /* ViewCarrusel.swift */; };
+		D1AC388A274D3F35006D72D5 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1AC3889274D3F35006D72D5 /* Datos.swift */; };
+		D1AC388C274D561E006D72D5 /* ViewDetalleDatos.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1AC388B274D561D006D72D5 /* ViewDetalleDatos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,19 @@
 		D14D5827274C598B0029EFFE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D14D582A274C598B0029EFFE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D14D582C274C598B0029EFFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D14D5832274C5F940029EFFE /* gifLoad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = gifLoad.swift; sourceTree = "<group>"; };
+		D14D5834274C60210029EFFE /* puppy.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = puppy.gif; sourceTree = "<group>"; };
+		D14D5839274C6DB60029EFFE /* ViewAdoptarTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewAdoptarTab.swift; sourceTree = "<group>"; };
+		D14D583B274C76BB0029EFFE /* perdidos.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = perdidos.gif; sourceTree = "<group>"; };
+		D14D583D274C78ED0029EFFE /* ViewPerdidosTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewPerdidosTab.swift; sourceTree = "<group>"; };
+		D14D583F274C7BA50029EFFE /* encontrados.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = encontrados.gif; sourceTree = "<group>"; };
+		D14D5841274C7ED90029EFFE /* ViewEncontradosTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewEncontradosTab.swift; sourceTree = "<group>"; };
+		D14D5843274C86120029EFFE /* FindPet-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FindPet-Bridging-Header.h"; sourceTree = "<group>"; };
+		D14D5844274C86120029EFFE /* iCarousel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iCarousel.m; sourceTree = "<group>"; };
+		D14D5845274C86120029EFFE /* iCarousel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iCarousel.h; sourceTree = "<group>"; };
+		D14D5847274C86800029EFFE /* ViewCarrusel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewCarrusel.swift; sourceTree = "<group>"; };
+		D1AC3889274D3F35006D72D5 /* Datos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
+		D1AC388B274D561D006D72D5 /* ViewDetalleDatos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewDetalleDatos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +80,9 @@
 		D14D581D274C598A0029EFFE /* FindPet */ = {
 			isa = PBXGroup;
 			children = (
+				D1AC3888274D3DAB006D72D5 /* iCarousel */,
+				D14D5838274C6D870029EFFE /* ViewsTab */,
+				D14D5836274C60B30029EFFE /* Imagenes Gif */,
 				D14D581E274C598A0029EFFE /* AppDelegate.swift */,
 				D14D5820274C598A0029EFFE /* SceneDelegate.swift */,
 				D14D5822274C598A0029EFFE /* ViewController.swift */,
@@ -63,8 +90,42 @@
 				D14D5827274C598B0029EFFE /* Assets.xcassets */,
 				D14D5829274C598B0029EFFE /* LaunchScreen.storyboard */,
 				D14D582C274C598B0029EFFE /* Info.plist */,
+				D14D5832274C5F940029EFFE /* gifLoad.swift */,
+				D14D5847274C86800029EFFE /* ViewCarrusel.swift */,
+				D1AC3889274D3F35006D72D5 /* Datos.swift */,
+				D1AC388B274D561D006D72D5 /* ViewDetalleDatos.swift */,
 			);
 			path = FindPet;
+			sourceTree = "<group>";
+		};
+		D14D5836274C60B30029EFFE /* Imagenes Gif */ = {
+			isa = PBXGroup;
+			children = (
+				D14D583F274C7BA50029EFFE /* encontrados.gif */,
+				D14D583B274C76BB0029EFFE /* perdidos.gif */,
+				D14D5834274C60210029EFFE /* puppy.gif */,
+			);
+			name = "Imagenes Gif";
+			sourceTree = "<group>";
+		};
+		D14D5838274C6D870029EFFE /* ViewsTab */ = {
+			isa = PBXGroup;
+			children = (
+				D14D5839274C6DB60029EFFE /* ViewAdoptarTab.swift */,
+				D14D583D274C78ED0029EFFE /* ViewPerdidosTab.swift */,
+				D14D5841274C7ED90029EFFE /* ViewEncontradosTab.swift */,
+			);
+			name = ViewsTab;
+			sourceTree = "<group>";
+		};
+		D1AC3888274D3DAB006D72D5 /* iCarousel */ = {
+			isa = PBXGroup;
+			children = (
+				D14D5845274C86120029EFFE /* iCarousel.h */,
+				D14D5844274C86120029EFFE /* iCarousel.m */,
+				D14D5843274C86120029EFFE /* FindPet-Bridging-Header.h */,
+			);
+			name = iCarousel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -99,6 +160,7 @@
 				TargetAttributes = {
 					D14D581A274C598A0029EFFE = {
 						CreatedOnToolsVersion = 13.0;
+						LastSwiftMigration = 1300;
 					};
 				};
 			};
@@ -128,6 +190,9 @@
 				D14D582B274C598B0029EFFE /* LaunchScreen.storyboard in Resources */,
 				D14D5828274C598B0029EFFE /* Assets.xcassets in Resources */,
 				D14D5826274C598A0029EFFE /* Main.storyboard in Resources */,
+				D14D583C274C76BB0029EFFE /* perdidos.gif in Resources */,
+				D14D5835274C60210029EFFE /* puppy.gif in Resources */,
+				D14D5840274C7BA50029EFFE /* encontrados.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,7 +204,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				D14D5823274C598A0029EFFE /* ViewController.swift in Sources */,
+				D14D5842274C7ED90029EFFE /* ViewEncontradosTab.swift in Sources */,
 				D14D581F274C598A0029EFFE /* AppDelegate.swift in Sources */,
+				D14D5833274C5F940029EFFE /* gifLoad.swift in Sources */,
+				D1AC388C274D561E006D72D5 /* ViewDetalleDatos.swift in Sources */,
+				D14D583A274C6DB60029EFFE /* ViewAdoptarTab.swift in Sources */,
+				D1AC388A274D3F35006D72D5 /* Datos.swift in Sources */,
+				D14D5846274C86120029EFFE /* iCarousel.m in Sources */,
+				D14D583E274C78ED0029EFFE /* ViewPerdidosTab.swift in Sources */,
+				D14D5848274C86800029EFFE /* ViewCarrusel.swift in Sources */,
 				D14D5821274C598A0029EFFE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -287,6 +360,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9QDXF859Y3;
@@ -295,6 +369,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -305,8 +380,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "betu-more.FindPet";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "FindPet/FindPet-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -315,6 +392,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 9QDXF859Y3;
@@ -323,6 +401,7 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -333,8 +412,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "betu-more.FindPet";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "FindPet/FindPet-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
